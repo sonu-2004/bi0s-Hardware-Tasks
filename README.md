@@ -33,12 +33,12 @@ I learned to find some text or anything in a given file and to decode it.
 I just googled caesercipher and pasted the text given in it and gave the key as 10 because if we add 10 after 'w'(the first letter of flag format) we get 'g'(1st letter given in the text) and got the flag as like the format. I copied the flag and submitted it.
 Site where I decoded the text: https://www.dcode.fr/caesar-cipher
 From the task I learned that there are different kind of ciphers like caesercipher, vigenere cipher etc.
-Cipher is like a language with secret pattern in it by which it can be decoded to understand it
+Cipher is like a language with secret pattern in it by which it can be decoded to understand it.
 
 # Lifetimesettlement
 First as I saw the string with 1s and 0s so I thiught it might be binary and tried to decode it I couldn't get the flag. Then I thought it should be some type of cipher, after trial and error method identified that it was spoon type cipher. Got the flag and submitted it.
 Site where I decoded the text: https://www.dcode.fr/caesar-cipher
-Cipher is like a language with secret pattern in it by which it can be decoded to understand it
+Cipher is like a language with secret pattern in it by which it can be decoded to understand it.
 
 # da_french_cipher
 Initially I tried with caesercipher but couldn't get the flag. Suddenly the name of the task gave me a idea to try with french cipher, so got into vignere cipher where I pasted the text and gave the key as 'AEIOU' as it was given as hint in the task to use vowels as key. After decoding I got the flag and submitted it
