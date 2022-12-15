@@ -40,7 +40,7 @@ From the task I learned that there are different kind of ciphers like caeserciph
 Cipher is like a language with secret pattern in it by which it can be decoded to understand it.
 
 # Lifetimesettlement
-First as I saw the string with 1s and 0s so I thought it might be binary and tried to decode it I couldn't get the flag. Then I thought it should be some type of cipher, after trial and error method identified that it was spoon type cipher. Got the flag and submitted it.
+First as I saw the string with 1s and 0s so I thought it might be binary and tried to decode it but I couldn't get the flag. Then I thought it should be some type of cipher, after trial and error method identified that it was spoon type cipher. Got the flag and submitted it.
 Site where I decoded the text: https://www.dcode.fr/caesar-cipher
 Cipher is like a language with secret pattern in it by which it can be decoded to understand it.
 
