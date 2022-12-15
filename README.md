@@ -1,4 +1,5 @@
 # Tasks done for bi0s Hardware CTF
+
 # sanity-check
 I copied the link given in the task and searched in google and filled the the google form. After completing it got the flag and submitted it.
 
@@ -28,6 +29,9 @@ I downloaded the file given. Opened the file in notepad and searced for 'wired',
 I learned to find some text or anything in a given file and to decode it.
 
 # Dots&Dashes
+I downloaded the file given. As the description of task was to decrypt it, I searched in google for a audio file decoder and got into 'Morse Code Adaptive Audio Decoder' where I uploaded the file given in the challenge and decoded it. I found at the end of the decoded text it was 'C T F ...(some text)', I copied the text and pasted it as the flag. Then I removed all spaces and submitted as in the format of the flag.
+Site where I decoded the audio file: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+I learned to decode audio file online using morse code adaptive audio decoder.
 
 # Ceasercipher
 I just googled caesercipher and pasted the text given in it and gave the key as 10 because if we add 10 after 'w'(the first letter of flag format) we get 'g'(1st letter given in the text) and got the flag as like the format. I copied the flag and submitted it.
@@ -54,5 +58,3 @@ Learned to solve logic circuit.
 
 # chan's favorite
 I wasn't able to do the challenge. I downloaded the audio file and played it in audacity as mentioned in the hint. But couldn't get any flag. Later realised that by making heat graph I could have cracked it.
-
-# Beep_boop
