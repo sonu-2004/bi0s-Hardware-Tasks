@@ -1,4 +1,4 @@
-# Tasks done for bi0s Hardware CTF
+# Tasks done for bi0s Hardware_CTF
 
 # sanity-check
 I copied the link given in the task and searched in google and filled the the google form. After completing it got the flag and submitted it.
